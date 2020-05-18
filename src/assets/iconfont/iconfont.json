@@ -1,0 +1,107 @@
+{
+  "id": "1669372",
+  "name": "funnymusic",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "837154",
+      "name": "repeat",
+      "font_class": "repeat",
+      "unicode": "e7d3",
+      "unicode_decimal": 59347
+    },
+    {
+      "icon_id": "938647",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "8106294",
+      "name": "random",
+      "font_class": "random",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "8827206",
+      "name": "repeat",
+      "font_class": "repeat1",
+      "unicode": "e93f",
+      "unicode_decimal": 59711
+    },
+    {
+      "icon_id": "11463953",
+      "name": "取消",
+      "font_class": "quxiao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6988104",
+      "name": "audiotrack",
+      "font_class": "audiotrack",
+      "unicode": "eb8a",
+      "unicode_decimal": 60298
+    },
+    {
+      "icon_id": "7275185",
+      "name": "Next track (Filled)",
+      "font_class": "NexttrackFilled",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "7275210",
+      "name": "Previous track (Fill",
+      "font_class": "PrevioustrackFill",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "7275244",
+      "name": "Stop (Filled)",
+      "font_class": "StopFilled",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "7746214",
+      "name": "el-hg-icon-stop",
+      "font_class": "el-hg-icon-stop",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7275261",
+      "name": "Left Arrow",
+      "font_class": "LeftArrow",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "586888",
+      "name": "fire",
+      "font_class": "fire",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "1055041",
+      "name": "back-to-top",
+      "font_class": "backtotop",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "2206528",
+      "name": "icon-music-note",
+      "font_class": "music-note",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
